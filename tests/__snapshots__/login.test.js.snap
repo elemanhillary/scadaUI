@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Login /> should render Login component 1`] = `ShallowWrapper {}`;
+
+exports[`<Signup /> should render SignupPage component 1`] = `ShallowWrapper {}`;
